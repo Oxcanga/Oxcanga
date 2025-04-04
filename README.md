@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oxcanga</h1>
+<h1 align="center">Hi 👋, I'm Yiğit Ilgaz A.</h1>
 <h3 align="center">A passionate Full-Stack developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxcanga&label=Profile%20views&color=0e75b6&style=flat" alt="oxcanga" /> </p>
