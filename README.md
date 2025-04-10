@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yiğit Ilgaz A.</h1>
 <h3 align="center">A passionate Full-Stack developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oxcanga&label=Profile%20views&color=0e75b6&style=flat" alt="oxcanga" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YigitRobotics&label=Profile%20views&color=0e75b6&style=flat" alt="YigitRobotics" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxcanga" alt="oxcanga" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YigitRobotics" alt="YigitRobotics" /></a> </p>
 
-- 🔭 I’m currently working on [YigitTools](https://github.com/Oxcanga/YigitTools)
+- 🔭 I’m currently working on [YigitTools](https://github.com/YigitRobotics/YigitTools)
 
 - 🌱 I’m currently learning **Advanced Ethical Hacking, C, C++ and ML**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [pneuvo](https://github.com/berkayguldal1/pneuvo)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Oxcanga/](https://github.com/Oxcanga/)
+- 👨‍💻 All of my projects are available at [https://github.com/YigitRobotics/](https://github.com/YigitRobotics/)
 
 - 📝 I regularly write articles on [Isn't Available](Isn't Available)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **Isn't available**
 
-- 📄 Know about my experiences [https://github.com/Oxcanga](https://github.com/Oxcanga)
+- 📄 Know about my experiences [https://github.com/YigitRobotics](https://github.com/YigitRobotics)
 
 - ⚡ Fun fact **I think I'm funny :)**
 
